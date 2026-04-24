@@ -1,6 +1,7 @@
 Dual Joy‑Con to USB HID Gamepad (ESP32‑S3)
 
-https://www.youtube.com/watch?v=64u_5oImT9Y
+https://www.youtube.com/watch?v=64u_5oImT9Y 
+
 https://oshwlab.com/scavenrage/gamepad_tablet_pro
 
 This project transforms a pair of original Nintendo Switch Joy‑Con controllers into a fully‑featured USB HID gamepad using an ESP32‑S3 Waveshare Zero board.
