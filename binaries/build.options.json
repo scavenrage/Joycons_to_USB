@@ -1,0 +1,10 @@
+{
+  "additionalFiles": "",
+  "builtInLibrariesFolders": "C:\\Users\\aaghemo\\AppData\\Local\\Arduino15\\libraries",
+  "compiler.optimization_flags": "-Os",
+  "customBuildProperties": "",
+  "fqbn": "esp32:esp32:esp32s3:UploadSpeed=921600,USBMode=hwcdc,CDCOnBoot=default,MSCOnBoot=default,DFUOnBoot=default,UploadMode=default,CPUFreq=240,FlashMode=qio,FlashSize=4M,PartitionScheme=default,DebugLevel=none,PSRAM=disabled,LoopCore=1,EventsCore=1,EraseFlash=none,JTAGAdapter=default,ZigbeeMode=default",
+  "hardwareFolders": "C:\\Users\\aaghemo\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\3.3.6,C:\\Users\\aaghemo\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\3.3.6",
+  "otherLibrariesFolders": "c:\\Users\\aaghemo\\OneDrive - Alstom\\Arduino\\libraries",
+  "sketchLocation": "C:\\Users\\aaghemo\\OneDrive - Alstom\\VecchioPC\\Joycons_Joystick_ESP32S3"
+}
